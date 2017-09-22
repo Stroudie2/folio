@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 2D Game Engine
+title: 2D Game Engine 2
 description: a simple xna-style game framework for 2D
 img: ../img/xna-logo1.png 
 ---
 
+test
 <center><b>ASGE</b> is a minimal game engine in C++ based on XNA ideas.</center><br/>
 
 #### Awesome Sauce Game Engine
